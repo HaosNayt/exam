@@ -1,0 +1,13 @@
+C:\Users\323\Desktop\salonKrasoti\bin\Debug\salonKrasoti.exe.config
+C:\Users\323\Desktop\salonKrasoti\bin\Debug\salonKrasoti.exe
+C:\Users\323\Desktop\salonKrasoti\bin\Debug\salonKrasoti.pdb
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.csproj.AssemblyReference.cache
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.csproj.SuggestedBindingRedirects.cache
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.SignIn.resources
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.Properties.Resources.resources
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.csproj.GenerateResource.cache
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.csproj.CoreCompileInputs.cache
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.exe
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.pdb
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.EmployeeForm.resources
+C:\Users\323\Desktop\salonKrasoti\obj\Debug\salonKrasoti.ClientForm.resources
